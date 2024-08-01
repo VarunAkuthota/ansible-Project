@@ -8,7 +8,7 @@
 
 - name: Creates directory
   file:
-    path: ./basic-http-server
+    path: ./basic-http-server2
     state: directory
 
 - name: install apache2
